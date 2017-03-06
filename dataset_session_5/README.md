@@ -22,6 +22,8 @@ CSV includes: (all **14** laps)
 
 ### Example
 
+First 5 rows of csv:
+
 | filename | empty | empty | steering | throttle | brakes | speed | acceleration x | acceleration y |
 |----------|-------|-------|----------|----------|--------|-------|----------------|----------------|
 | images/center_00000000.jpg |  |  | -0.0855263158 | 0 | 0.0436 | 45 | 0.4666666667 | -0.0666666667 |
@@ -29,6 +31,20 @@ CSV includes: (all **14** laps)
 | images/center_00000001.jpg |  |  | -0.0342105263 | 0 | 0.0545 | 45 | 0.4 | 0.1 |
 | images/center_00000003.jpg |  |  | 0 | 0 | 0.0872 | 44 | 0.4 | -0.0666666667 |
 | images/center_00000004.jpg |  |  | 0 | 0 | 0.0981 | 44 | 0.3333333333 | 0.1 |
+
+Min/Max values for columns:
+
+|   | steering | throttle | brakes | speed | acceleration x | acceleration y |
+|----------|-------|-------|----------|----------|--------|-------|
+| Min values | -1.88157895  |  0.     |       0.     |      21.   |        -2.26666667 |  -2.2     |
+| Max values |  1.38        |  1.     |      0.81205 |     98.    |        2.26666667  |  2.2      |
+
+*As you can see steering is not scaled [-1,1]*
+
+## Images
+
+Image size: **1280x320**
+![First image](images/center_00000000.jpg)
 
 ## Plot
 
