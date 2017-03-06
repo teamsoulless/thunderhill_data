@@ -34,8 +34,8 @@ CSV includes: (all **14** laps)
 
 First 5000 rows:
 
-![First 5000 rows](first5000.png)]
+![First 5000 rows](first5000.png)
 
 Full plot:
 
-![Full plot](full.png)]
+![Full plot](full.png)
