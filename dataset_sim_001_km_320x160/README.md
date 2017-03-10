@@ -1,4 +1,4 @@
-# dataset_sim_000_km_few_laps
+# dataset_sim_001_km_320x160
 
 First dataset recorded by Karol Majek using Sim (20170306) set to output **320x160** images.
 
@@ -56,5 +56,5 @@ Full plot:
 ![Full plot](full.png)
 
 ## Video
-https://youtu.be/xC7O5KCY1lk
+
 [![Self-Racing Cars - Udacity Soulless - Dataset 001](https://img.youtube.com/vi/xC7O5KCY1lk/0.jpg)](https://www.youtube.com/watch?v=xC7O5KCY1lk)

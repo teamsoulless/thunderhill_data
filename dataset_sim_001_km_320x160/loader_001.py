@@ -12,8 +12,8 @@ filename='driving_log.csv'
 # | IMG/center_2017_03_06_21_15_27_656.jpg | | | 0.07247914 | 0.7352967 | 0 | 0.6671922 | 1239.393:754.3097:29.65825 | 356.0383:175.2307:0.3258028 |
 
 
-class dataset000:
-    def load000(csvfname):
+class dataset001:
+    def load001(csvfname):
         """
         Load dataset from csv file
         """
@@ -93,15 +93,15 @@ class dataset000:
             plt.show()
 
 def main():
-    data_000 = dataset000.load000(filename)
+    data_001 = dataset001.load001(filename)
     print('='*40)
-    print('='*8,'dataset 000','='*8)
+    print('='*8,'dataset 001','='*8)
     print('='*40)
-    print('Records count: ',len(data_000))
-    print('First row: ',data_000[0])
+    print('Records count: ',len(data_001))
+    print('First row: ',data_001[0])
 
     #split to images, values
-    images, values = zip(*data_000)
+    images, values = zip(*data_001)
     values = np.array(values)
 
     print('Images len: ',len(images))
@@ -111,8 +111,8 @@ def main():
     print('Min values:', ['%.3f'%x for x in list(np.amin(values, axis=0))])
     print('Max values:', ['%.3f'%x for x in list(np.amax(values, axis=0))])
 
-    dataset000.showData(values, save_fname='full.png',show_plot=True)
-    dataset000.showData(values, rng=(0,5000), save_fname='first5000.png')
+    dataset001.showData(values, save_fname='full.png',show_plot=True)
+    dataset001.showData(values, rng=(0,5000), save_fname='first5000.png')
 
 if __name__ == '__main__':
     main()
