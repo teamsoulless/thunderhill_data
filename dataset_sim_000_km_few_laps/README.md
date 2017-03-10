@@ -19,8 +19,8 @@ CSV includes: (all **5** laps)
 - throttle
 - brakes
 - speed
-- acceleration x
-- acceleration y
+- position
+- rotation
 
 ### Example
 
