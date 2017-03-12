@@ -1,0 +1,351 @@
+========================================================================================
+Report      : INFO
+Date        : So Mär 12 23:11:07 CET 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 767769485 from [1,2147483647]
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : spliced 7fcb9c122700
+Internals   : 6.6.2p1/af3a357/aec814d/The OpenSplice domain service/u_domain.c/630/0/1489356667.762160082
+========================================================================================
+Report      : INFO
+Date        : So Mär 12 23:11:07 CET 2017
+Description : Service cmsoap disabled
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : spliced 7fcb9c122700
+Internals   : 6.6.2p1/af3a357/aec814d/OpenSplice domain service/sr_componentInfo.c/439/0/1489356667.762517005
+========================================================================================
+Report      : INFO
+Date        : So Mär 12 23:11:07 CET 2017
+Description : Durability Client for spliced started
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : spliced 7fcb9c122700
+Internals   : 6.6.2p1/af3a357/aec814d/spliced::durabilityClientStart/spliced.c/350/1/1489356667.763583448
+========================================================================================
+Report      : INFO
+Date        : So Mär 12 23:11:07 CET 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : spliced 7fcb9c122700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1489356667.763620547
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:07 CET 2017
+Description : Locale with LC_NUMERIC ',' detected, which is not '.'. This can decrease performance.
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/os_stdlib/os_stdlib_strtod.c/82/0/1489356667.767795204
+========================================================================================
+Report      : INFO
+Date        : So Mär 12 23:11:07 CET 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1489356667.773914042
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 58b7c804:92:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800837574
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 9cc6907:92:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800879349
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 489cf41e:8e:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800897610
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 24075a46:92:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800906343
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 27cc6d47:8e:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800914254
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 2d562f71:8e:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800921536
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader f0f4675:8e:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800929630
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 7b446784:8e:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800937372
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 429e1685:92:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800945722
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 6d0fe785:8e:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800953065
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 4a6b068c:92:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800960634
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader e6edbb0:92:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800971246
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 7c8063d3:b4:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.800979017
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 2acb9e3:92:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.801033430
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 4a1a16e8:8e:1:2c7 non-responsive
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : ddsi2 7fcb8c695700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1489356668.801039690
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 4a6b068c:92:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.802372684
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 429e1685:92:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.804349383
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 2d562f71:8e:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806423350
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 4a1a16e8:8e:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806511488
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader e6edbb0:92:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806535165
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader f0f4675:8e:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806565811
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 489cf41e:8e:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806657424
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 9cc6907:92:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806866704
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 7b446784:8e:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806884184
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 6d0fe785:8e:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806901069
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 7c8063d3:b4:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806914487
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 58b7c804:92:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.806926420
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 2acb9e3:92:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.807058593
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 24075a46:92:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.807227985
+========================================================================================
+Report      : WARNING
+Date        : So Mär 12 23:11:08 CET 2017
+Description : writer 2dc33b8d:92:1:2c2 considering reader 27cc6d47:8e:1:2c7 responsive again
+
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : recv 7fcb8dda9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1489356668.807403824
+========================================================================================
+Report      : INFO
+Date        : So Mär 12 23:11:09 CET 2017
+Description : The durability service can be identified by ID: 767769485
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : durability 7fcb8ca1f700
+Internals   : 6.6.2p1/af3a357/aec814d/DurabilityService/d_durability.c/676/0/1489356669.180927647
+========================================================================================
+Report      : INFO
+Date        : So Mär 12 23:11:16 CET 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : AKKA-DataScience-P50-01
+Process     : polysync-core-studio <15889>
+Thread      : durability 7fcb8ca1f700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1489356676.585440421
