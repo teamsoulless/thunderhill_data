@@ -40,4 +40,4 @@ Full plot:
 
 ## Video
 
-[![Self-Racing Cars - Udacity Soulless - Dataset 001](https://img.youtube.com/vi/RFAOteuxXa8/0.jpg)](https://www.youtube.com/watch?v=RFAOteuxXa8)
+[![Self-Racing Cars - Udacity Soulless - Dataset 003](https://img.youtube.com/vi/RFAOteuxXa8/0.jpg)](https://www.youtube.com/watch?v=RFAOteuxXa8)
