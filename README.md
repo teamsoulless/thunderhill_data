@@ -45,6 +45,15 @@ More detailed info in dataset Reamde files.
 
 [![Self-Racing Cars - Udacity Soulless - Dataset 003](https://img.youtube.com/vi/RFAOteuxXa8/0.jpg)](https://www.youtube.com/watch?v=RFAOteuxXa8)
 
+## Dataset 004
+
+| Source | Creator | Image count | Image res | Description |
+|--------|---------|-------------|-----------|-------------|
+| Sim 20170321  | Karol Majek | 14060 | **320x160** | 10 laps |
+
+[![Self-Racing Cars - Udacity Soulless - Dataset 004](https://img.youtube.com/vi/hpj0nt4bC80/0.jpg)](https://www.youtube.com/watch?v=hpj0nt4bC80)
+
+
 ## dataset_polysync_1464466368552019
 
 ***Important info***

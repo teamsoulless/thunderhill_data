@@ -1,6 +1,6 @@
 # dataset_sim_003_km_320x160
 
-First dataset recorded by Karol Majek using Sim (20170314) set to output **320x160** images.
+Dataset recorded by Karol Majek using Sim (20170314) set to output **320x160** images.
 
 11128 images.
 
